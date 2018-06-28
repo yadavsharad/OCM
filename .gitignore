@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Mongodb.Repository/.vs/Mongodb.Repository/v15
+/Mongodb.Repository/bin/Debug
+/Mongodb.Repository/obj/Debug
