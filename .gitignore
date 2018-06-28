@@ -5,3 +5,7 @@
 /Mongodb.Repository/.vs/Mongodb.Repository/v15
 /Mongodb.Repository/bin/Debug
 /Mongodb.Repository/obj/Debug
+/OCM.MicroServices/.vs/OCM.MicroServices/v15
+/OCM.MicroServices/OCM.Doctor.MicroService/obj
+/OCM.MicroServices/OCM.Patient.MicroService/bin/Debug/netcoreapp2.0
+/OCM.MicroServices/OCM.Patient.MicroService/obj
